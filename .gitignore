@@ -1,0 +1,13 @@
+# Generated / executable lab artifacts:
+shell.bat
+payloads/
+*.exe
+*.dll
+
+# Temporary files
+#.tmp
+#.log
+
+# OS / editor junk :p
+.DS_Store
+Thumbs.db
