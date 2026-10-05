@@ -19,7 +19,7 @@ No default gateway or DNS server was required for the isolated lab.
 
 ---
 
-## !. Reverse TCP Concept
+## 1. Reverse TCP Concept
 
 A reverse TCP connection works differently from a normal inbound connection.
 
