@@ -66,7 +66,7 @@ Generating the file does NOT:
 
 Those are separate stages.
 
-NO generated payload file are stored in this repository.
+No generated payload files are stored in this repository.
 
 ---
 
