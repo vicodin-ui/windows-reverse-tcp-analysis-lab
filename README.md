@@ -1,8 +1,8 @@
-# Windows Reverse TCP Analysis Lab :p
+# Reverse SHELL Analysis Lab :p
 
 A controlled cybersecurity lab using Kali Linux and Windows 10 virtual machines to study reverse TCP communication, HTTP file delivery, endpoint detection, and network traffic analysis.
 
-> All exercises in this projet were preformed on user-owned virtual machines inside an isolated virtualBox network you feds !!!
+> All exercises in this projet were preformed on user-owned virtual machines inside an isolated virtualBox network !!!
 
 ## Lab Enviroment
 
